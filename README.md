@@ -1,6 +1,6 @@
 # Multimodal PDF Question Answering Chatbot
 
-A Multimodal Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents and ask natural language questions. The chatbot extracts **text, images, and tables** from PDFs, indexes the content using semantic embeddings, and generates accurate answers using a locally hosted Large Language Model through Ollama.
+A Multimodal Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents and ask natural language questions. The chatbot extracts text, images, and tables from PDFs, indexes the content using semantic embeddings, and generates accurate answers using a locally hosted Large Language Model through Ollama.
 
 ---
 
@@ -52,7 +52,7 @@ PDF-Question-Answering-Chatbot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/PDF-Question-Answering-Chatbot.git
+git clone https://github.com/sarvvick/Kiranu-Hospital-Management-System.git
 
 cd PDF-Question-Answering-Chatbot
 ```
