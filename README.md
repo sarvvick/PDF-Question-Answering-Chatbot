@@ -47,7 +47,7 @@ PDF-Question-Answering-Chatbot/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Clone the Repository
 
