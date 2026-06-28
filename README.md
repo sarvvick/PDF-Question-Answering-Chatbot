@@ -52,7 +52,7 @@ PDF-Question-Answering-Chatbot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sarvvick/Kiranu-Hospital-Management-System.git
+git clone https://github.com/sarvvick/PDF-Question-Answering-Chatbot.git
 
 cd PDF-Question-Answering-Chatbot
 ```
